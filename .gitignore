@@ -1,0 +1,14 @@
+# Python / Virtualenv
+venv/
+__pycache__/
+*.pyc
+.env
+
+# Node / React
+node_modules/
+frontend/node_modules/
+frontend/dist/
+
+# Database
+*.db
+*.sqlite3
