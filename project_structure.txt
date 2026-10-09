@@ -1,0 +1,52 @@
+.
+|-- edushield
+|   app
+|   |   api
+|   |   |   attendance.py
+|   |   |   exit_permits.py
+|   |   |   __init__.py
+|   |   |   otp.py
+|   |   |   reports.py
+|   |   core
+|   |   |   __init__.py
+|   |   |   otp.py
+|   |   |   security.py
+|   |   |   sms.py
+|   |   db
+|   |   |   init_db.py
+|   |   |   __init__.py
+|   |   |   models.py
+|   |   |   seed.py
+|   |   |   session.py
+|   |   __init__.py
+|   |   main.py
+|   |   schemas
+|   |   |   attendance.py
+|   |   |   __init__.py
+|   |   |   legal.py
+|   |   |   otp.py
+|   |   services
+|   |   |   export_service.py
+|   edushield.db
+|   requirements.txt
+|-- frontend
+|   eslint.config.js
+|   index.html
+|   package.json
+|   package-lock.json
+|   postcss.config.js
+|   public
+|   |   vite.svg
+|   README.md
+|   src
+|   |   api.js
+|   |   App.css
+|   |   App.jsx
+|   |   assets
+|   |   |   react.svg
+|   |   index.css
+|   |   main.jsx
+|   tailwind.config.js
+|   vite.config.js
+|-- project_structure.txt
+|-- repopack-output.txt
